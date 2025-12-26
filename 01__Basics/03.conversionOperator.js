@@ -8,6 +8,7 @@ console.log("1"+2);
 console.log("1"+2 +2);
 console.log(1+2 +"2");
 let gameCounter = 100;
-console.log(gameCounter++)
+// console.log(gameCounter++)
+console.log(++gameCounter);
 // gameCounter++;
 console.log(gameCounter);
